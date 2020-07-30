@@ -1,0 +1,34 @@
+/*.wb-tabs{
+	.tab-count{
+		&>div{
+			color:transparent;
+				.curr-count{
+					color:black;
+					html[lang='en'] &{&:before{content:'Quotation'}}
+					html[lang='fr'] &{&:before{content:'Citation'}}
+					&:before{
+						display:block;
+						font-weight:normal;
+						font-size:70%;
+					}
+				}
+		}
+	}
+}*/
+
+// "Citation"
+// Quotations
+/*.wb-tabs.carousel-s2.wayForward{
+	.carouselText{
+		p.citation{
+			html[lang='en'] &:before{
+				background: url("../content/medias/images/WayForwardSlideUpper.png") center center;}
+			html[lang='fr'] &:before{
+				background: url("../content/medias/images/WayForwardSlideUpper_fr.png") center center;}
+			html[lang='en'] &:after{
+				background: url("../content/medias/images/WayForwardSlideLower.png") center center;}
+			html[lang='fr'] &:after{
+				background: url("../content/medias/images/WayForwardSlideLower_fr.png") center center;}
+		}
+	}
+}*/

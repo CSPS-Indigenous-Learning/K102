@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#style" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="3.44s" id="p0" end="6.0s">[Riel] : Je leur pardonne de tout mon cœur et demande à Dieu de les absoudre.</p>
+      <p begin="6.46s" id="p1" end="9.98s">[Juge] : Le verdict est clair, vous êtes coupable de haute trahison.</p>
+      <p begin="10.3s" id="p2" end="12.2s">[Riel] : Et qu’ils se souviennent de mon combat pour les Métis,</p>
+      <p begin="12.66s" id="p3" end="14.88s">pour le peuple du Manitoba et du Nord-ouest.</p>
+      <p begin="15.16s" id="p4" end="16.94s">[Juge] : Rien ne saura justifier vos actes.</p>
+      <p begin="17.1s" id="p5" end="18.64s">[Riel] : Les Métis ne sont pas des oiseaux.</p>
+      <p begin="20.08s" id="p6" end="22.02s">Nous avons droit aussi aux terres du bon Dieu.</p>
+      <p begin="24.22s" id="p7" end="29.0s">Moi fou, je me suis battu contre le gouvernement qui lui est fou et irresponsable.</p>
+      <p begin="30.34s" id="p8" end="33.16s">Peut-être suis-je un prophète, j’ai assez souffert pour cela.</p>
+      <p begin="37.44s" id="p9" end="41.26s">J’ai lutté non seulement pour moi, mais pour les droits de mon peuple.</p>
+      <p begin="41.62s" id="p10" end="44.52s">[voix d’une femme] Louis Riel a aidé le peuple Métis</p>
+      <p begin="44.84s" id="p11" end="48.96s">et nous a donné l’espoir, la force et la fierté.</p>
+      <p begin="51.38s" id="p12" end="55.02s">[Riel] : Lead us not into temptation, but deliver us from evil.</p>
+    </div>
+  </body>
+</tt>

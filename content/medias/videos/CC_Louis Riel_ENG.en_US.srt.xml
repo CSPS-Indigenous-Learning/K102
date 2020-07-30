@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#style" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="4.26s" id="p0" end="7.32s">I forgive them with all my heart as I ask God to forgive me.</p>
+      <p begin="7.82s" id="p1" end="11.04s">[off camera]: The verdict is clear. You're guilty of high treason.</p>
+      <p begin="11.04s" id="p2" end="13.64s">But let them remember that I struggled for the Métis,</p>
+      <p begin="13.96s" id="p3" end="16.16s">for the people of Manitoba and the North-West.</p>
+      <p begin="16.44s" id="p4" end="17.9s">[off camera]: There can be no excuse for what you have done...</p>
+      <p begin="17.9s" id="p5" end="18.74s">The Métis are not birds.</p>
+      <p begin="18.74s" id="p6" end="20.64s">[off camera]: the law requires you to answer for it.</p>
+      <p begin="20.8s" id="p7" end="22.44s">We have a right to God's lands.</p>
+      <p begin="24.56s" id="p8" end="29.3s">Insane? I have battled an insane and irresponsible government.</p>
+      <p begin="29.3s" id="p9" end="31.16s">[off camera]: You will be taken to the place appointed for your execution.</p>
+      <p begin="31.16s" id="p10" end="33.78s">Perhaps I am a prophet -- I suffered enough.</p>
+      <p begin="33.78s" id="p11" end="35.38s">[off camera]: hanged by the neck until you are dead.</p>
+      <p begin="38.02s" id="p12" end="39.88s">I struggled not only for myself,</p>
+      <p begin="41.02s" id="p13" end="43.24s">but for the rights of my people, the Métis.</p>
+      <p begin="43.24s" id="p14" end="44.86s">Métis woman: Louis Riel led our Métis nation,</p>
+      <p begin="45.6s" id="p15" end="49.24s">and he gave us hope and strength and pride.</p>
+      <p begin="51.92s" id="p16" end="55.54s">Lead us not into temptation, but deliver us from evil.</p>
+    </div>
+  </body>
+</tt>
